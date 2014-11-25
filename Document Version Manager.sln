@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Document Version Manager", "Document Version Manager\Document Version Manager.csproj", "{2D3C36C0-5728-4D75-95F2-3528551035C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPDocIntegrator", "SPDocIntegrator\SPDocIntegrator.csproj", "{E623601A-D1BC-4C0C-9334-56D5D439DC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3C36C0-5728-4D75-95F2-3528551035C4}.Debug|x86.ActiveCfg = Debug|x86
+		{2D3C36C0-5728-4D75-95F2-3528551035C4}.Debug|x86.Build.0 = Debug|x86
+		{2D3C36C0-5728-4D75-95F2-3528551035C4}.Release|x86.ActiveCfg = Release|x86
+		{2D3C36C0-5728-4D75-95F2-3528551035C4}.Release|x86.Build.0 = Release|x86
+		{E623601A-D1BC-4C0C-9334-56D5D439DC89}.Debug|x86.ActiveCfg = Debug|x86
+		{E623601A-D1BC-4C0C-9334-56D5D439DC89}.Debug|x86.Build.0 = Debug|x86
+		{E623601A-D1BC-4C0C-9334-56D5D439DC89}.Release|x86.ActiveCfg = Release|x86
+		{E623601A-D1BC-4C0C-9334-56D5D439DC89}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
